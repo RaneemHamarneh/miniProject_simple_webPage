@@ -4,3 +4,9 @@
     padding: 50px 10px;
     margin: 20px 0px;
 }
+
+p {
+    color: rgb(23, 22, 22);
+    font-size: 20px;
+    text-align: center;
+}
